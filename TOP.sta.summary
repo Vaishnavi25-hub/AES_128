@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Clk'
+Slack : -81.055
+TNS   : -748.280
+
+Type  : Slow 1200mV 85C Model Setup 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -80.425
+TNS   : -134299.814
+
+Type  : Slow 1200mV 85C Model Setup 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : -2.256
+TNS   : -287.340
+
+Type  : Slow 1200mV 85C Model Hold 'Clk'
+Slack : -2.578
+TNS   : -36.643
+
+Type  : Slow 1200mV 85C Model Hold 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -0.149
+TNS   : -0.329
+
+Type  : Slow 1200mV 85C Model Hold 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : 0.449
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clk'
+Slack : -3.000
+TNS   : -53.508
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -1.403
+TNS   : -4758.976
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : -1.403
+TNS   : -370.392
+
+Type  : Slow 1200mV 0C Model Setup 'Clk'
+Slack : -75.193
+TNS   : -692.537
+
+Type  : Slow 1200mV 0C Model Setup 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -74.767
+TNS   : -124614.897
+
+Type  : Slow 1200mV 0C Model Setup 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : -2.039
+TNS   : -248.493
+
+Type  : Slow 1200mV 0C Model Hold 'Clk'
+Slack : -2.359
+TNS   : -33.557
+
+Type  : Slow 1200mV 0C Model Hold 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -0.085
+TNS   : -0.085
+
+Type  : Slow 1200mV 0C Model Hold 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : 0.415
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clk'
+Slack : -3.000
+TNS   : -53.508
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -1.403
+TNS   : -4758.976
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : -1.403
+TNS   : -370.392
+
+Type  : Fast 1200mV 0C Model Setup 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -35.630
+TNS   : -59344.044
+
+Type  : Fast 1200mV 0C Model Setup 'Clk'
+Slack : -35.579
+TNS   : -319.346
+
+Type  : Fast 1200mV 0C Model Setup 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : -0.588
+TNS   : -28.123
+
+Type  : Fast 1200mV 0C Model Hold 'Clk'
+Slack : -1.271
+TNS   : -18.899
+
+Type  : Fast 1200mV 0C Model Hold 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clk'
+Slack : -3.000
+TNS   : -43.538
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -1.000
+TNS   : -3392.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'UART_rs232_rx:I_RS232RX0|RxDone'
+Slack : -1.000
+TNS   : -264.000
+
+------------------------------------------------------------
